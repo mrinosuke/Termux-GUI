@@ -20,7 +20,7 @@ ls
 
 cd Termux-GUI
 
-chmod +x termux_gui.sh
+chmod +x ternux_gui.sh
 
 ./termux_gui.sh
 ```
