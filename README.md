@@ -22,7 +22,7 @@ cd Termux-GUI
 
 chmod +x ternux_gui.sh
 
-./termux_gui.sh
+./ternux_gui.sh
 ```
 
 ### Note command: 
